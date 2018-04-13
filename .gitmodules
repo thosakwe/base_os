@@ -1,0 +1,3 @@
+[submodule "lib/bionic"]
+	path = lib/bionic
+	url = https://android.googlesource.com/platform/bionic

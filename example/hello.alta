@@ -1,0 +1,3 @@
+fn main(args: string[]): void {
+    print('Hello! You passed %{args.length} arg(s).');
+}
