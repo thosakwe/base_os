@@ -1,5 +1,4 @@
 # Running in QEMU
-# Running in QEMU
 This is probably what you need.
 
 ```bash
